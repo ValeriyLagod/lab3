@@ -1,0 +1,36 @@
+pharmacy("ABC Pharmacy", "123 Main St").
+pharmacy("XYZ Pharmacy", "456 Elm St").
+pharmacy("Pharma Plus", "789 Oak St").
+
+patient("John", 30, "Male").
+patient("Alice", 25, "Female").
+patient("Michael", 35, "Male").
+patient("Emma", 28, "Female").
+patient("David", 40, "Male").
+patient("Olivia", 22, "Female").
+
+medicine("Paracetamol").
+medicine("Ibuprofen").
+medicine("Amoxicillin").
+medicine("Loratadine").
+medicine("Omeprazole").
+medicine("Simvastatin").
+medicine("Aspirin").
+medicine("Cetirizine").
+medicine("Prednisone").
+medicine("Metformin").
+medicine("Amlodipine").
+medicine("Atorvastatin").
+
+prescription("John", "Paracetamol", 1).
+prescription("John", "Ibuprofen", 2).
+prescription("Alice", "Amoxicillin", 5).
+prescription("Michael", "Loratadine", 3).
+prescription("Emma", "Omeprazole", 1).
+prescription("David", "Simvastatin", 2).
+prescription("Olivia", "Aspirin", 3).
+prescription("Olivia", "Cetirizine", 1).
+prescription("Olivia", "Prednisone", 2).
+prescription("Olivia", "Metformin", 3).
+prescription("Olivia", "Amlodipine", 4).
+prescription("Olivia", "Atorvastatin", 2).
